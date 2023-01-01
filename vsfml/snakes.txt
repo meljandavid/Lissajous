@@ -1,0 +1,30 @@
+NewSnake
+Color 0.867057 0.0179242 0.507142
+Size 71
+Tail 80
+Velocity 2 3
+Speed 0.44
+NewSnake
+Color 0.168142 1 0
+Size 35
+Tail 50
+Velocity 2 3
+Speed 0.207
+NewSnake
+Color 1 0 0
+Size 60
+Tail 60
+Velocity 3 5
+Speed 0.2
+NewSnake
+Color 1 0.982301 0
+Size 40
+Tail 30
+Velocity 7 2
+Speed 0.1
+NewSnake
+Color 0 1 1
+Size 100
+Tail 50
+Velocity 3 2
+Speed 0.4
